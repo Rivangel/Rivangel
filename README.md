@@ -1,55 +1,58 @@
-# 👨‍💻 Rivangel | Software Developer
+# ¡Hola! Soy José Ángel López Rivera 👋
 
-### "Transformando ideas en soluciones digitales eficientes"
+### Desarrollador de Software Multiplataforma | Estudiante de Ingeniería
 
-¡Hola! Soy **José Ángel López Rivera**, estudiante de Ingeniería en Desarrollo y Gestión de Software. Me especializo en crear herramientas tecnológicas que optimizan procesos y mejoran la experiencia del usuario.
+## 👨‍💻 Sobre mí
+[cite_start]Soy estudiante de la **Ingeniería en Desarrollo y Gestión de Software** en la Universidad Tecnológica del Centro de Veracruz[cite: 18, 19]. [cite_start]Me defino como un desarrollador autodidacta con una sólida capacidad para analizar y resolver problemas mediante el uso de diversas herramientas tecnológicas[cite: 3]. 
 
----
-
-## 🛠️ Stack Tecnológico
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | Java, JavaScript, TypeScript |
-| **Frontend** | Angular, Ionic, Bootstrap |
-| **Backend** | Node.js, Express.js |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Tools** | Git, Docker, Postman, Jira |
+[cite_start]Me apasiona el aprendizaje continuo y la mejora de procesos a través de la innovación digital[cite: 4]. [cite_start]Siempre busco expandir mis conocimientos para construir soluciones eficientes, ya sea en el desarrollo web frontend/backend o en aplicaciones móviles nativas[cite: 4, 15].
 
 ---
 
-## 💼 Experiencia Relevante
+## 🚀 Experiencia y Proyectos Destacados
 
-**Panadería El Fortín (Practicante)**
-Durante mi periodo de colaboración, desarrollé un ecosistema digital integral que incluyó:
-* 📱 **Mobile:** Aplicación nativa para Android desarrollada en Android Studio.
-* 🌐 **Web:** Sitio web corporativo y funcional.
-* 📊 **Gestión:** Sistema robusto para el control de inventarios.
+[cite_start]**Panadería El Fortín** (Prácticas Profesionales) [cite: 10, 11]
+* [cite_start]📱 **App Móvil:** Desarrollo de aplicación móvil nativa para Android[cite: 15].
+* [cite_start]💻 **Web:** Desarrollo de página web corporativa[cite: 15].
+* [cite_start]📦 **Sistema de Gestión:** Creación de un sistema a medida para la gestión de inventario[cite: 16].
 
 ---
 
-## 🎓 Formación Académica
-* **Ingeniería en Desarrollo y Gestión de Software** | Universidad Tecnológica del Centro de Veracruz (En curso).
-* **TSU en Tecnologías de la Información** | Área Desarrollo de Software Multiplataforma.
+## 🛠️ Tecnologías y Herramientas
+
+### Lenguajes de Programación
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks y Librerías
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ---
 
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivangel&show_icons=true&theme=merko" alt="Rivangel Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rivangel&show_icons=true&theme=dark" alt="Estadísticas de Rivangel" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivangel&layout=compact&theme=merko" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivangel&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </p>
 
 ---
 
-## 📬 Conectemos
+## 📬 Contacto
 <p align="left">
-<a href="https://www.linkedin.com/in/jose-angel-lopez-rivera-1bb291351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-<a href="mailto:rivangel18z@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:rivangel18z@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jose-angel-lopez-rivera-1bb291351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<p align="center">Construido con ❤️ y código.</p>
+<p align="center"><strong>¡Gracias por visitar mi perfil! 🚀</strong></p>
