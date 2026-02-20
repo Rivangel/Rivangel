@@ -3,7 +3,7 @@
 ### Desarrollador de Software Multiplataforma | Estudiante de Ingeniería
 
 ## 👨‍💻 Sobre mí
-[cite_start]Soy estudiante de la **Ingeniería en Desarrollo y Gestión de Software** en la Universidad Tecnológica del Centro de Veracruz[cite: 18, 19]. [cite_start]Me defino como un desarrollador autodidacta con una sólida capacidad para analizar y resolver problemas mediante el uso de diversas herramientas tecnológicas[cite: 3]. 
+[cite_start]Soy estudiante de la **Ingeniería en Desarrollo y Gestión de Software** en la UTCV[cite: 18, 19]. [cite_start]Me defino como un desarrollador autodidacta con una sólida capacidad para analizar y resolver problemas mediante el uso de diversas herramientas tecnológicas[cite: 3].
 
 [cite_start]Me apasiona el aprendizaje continuo y la mejora de procesos a través de la innovación digital[cite: 4]. [cite_start]Siempre busco expandir mis conocimientos para construir soluciones eficientes, ya sea en el desarrollo web frontend/backend o en aplicaciones móviles nativas[cite: 4, 15].
 
@@ -29,7 +29,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ---
 
