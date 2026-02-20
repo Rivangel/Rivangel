@@ -37,11 +37,11 @@ Durante mi periodo de colaboración, desarrollé un ecosistema digital integral 
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivangel&show_icons=true&theme=tokyonight" alt="Rivangel Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rivangel&show_icons=true&theme=merko" alt="Rivangel Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivangel&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivangel&layout=compact&theme=merko" alt="Top Langs" />
 </p>
 
 ---
