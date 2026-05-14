@@ -45,4 +45,3 @@
 ## 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/rivangel18z@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rivangel18z@gmail.com)
-[![Location](https://img.shields.io/badge/Córdoba,_Veracruz_—_Mexico-1E3A5F?style=flat-square&logo=googlemaps&logoColor=white)](#)
